@@ -1,3 +1,4 @@
+![Image](https://github.com/user-attachments/assets/42f7b678-9810-4a14-979e-69cce86d7a43)
 # 👋 Hi there, I'm Gaurav Pawar!
 
 A dedicated Java developer with experience in building reliable and scalable applications. I specialize in advanced Java technologies, including Spring Boot, and am committed to continuously enhancing my expertise in backend development and web technologies.
